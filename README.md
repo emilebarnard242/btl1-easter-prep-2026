@@ -14,7 +14,7 @@ through a combination of TryHackMe rooms, Immersive Labs modules, and a custom-b
 mock investigation.
 
 Existing certifications: CompTIA Security+ | Splunk Core Certified User (SPLK-1001)  
-Target: BTL1 — Security Blue Team | Exam scheduled August 2026
+Target: BTL1 — Security Blue Team 
 
 ---
 
@@ -77,4 +77,3 @@ Target: BTL1 — Security Blue Team | Exam scheduled August 2026
 
 - [Splunk Lab Portfolio](https://github.com/emilebarnard242/splunk-lab-portfolio) — 
   BOTSv1 Cyber Kill Chain investigation and STEP linux_secure sourcetype analysis  
-- BTL1 certification target: August 2026
